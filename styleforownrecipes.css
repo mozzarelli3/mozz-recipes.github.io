@@ -1,0 +1,163 @@
+/* stylesheet for own recipe page */
+
+* {
+    font-family: Helvetica;
+}
+
+body {
+    background-color: #EAEDED
+}
+
+.recipes {
+    background-color:#BFC9CA;
+    color: #17A589;
+    border: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.recipes:hover {
+    border: solid #17A589;
+    background-color:#EAEDED;
+    color: #17A589;
+}
+
+.online {
+    border-top: solid #BFC9CA;
+    border-left: solid #BFC9CA;
+    border-right: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 13px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #17A589;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.online:hover {
+    background-color:#BFC9CA;
+    color: #17A589;
+}
+
+.home {
+    border-top: solid #BFC9CA;
+    border-left: solid #BFC9CA;
+    border-right: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 13px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #17A589;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.home:hover {
+    background-color:#BFC9CA;
+    color: #17A589;
+}
+
+h1 {
+    position: relative;
+    background-color: #17A589;
+    color:#BFC9CA;
+    border-radius: 15px;
+    padding: 15px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.caution {
+    background-color: #BFC9CA;
+    color: #17A589;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+    margin-top: 0px;
+    width: 200px;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lunch {
+    color: #17A589;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.blt {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.blt:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+.broccolichowmein {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.broccolichowmein:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+.nandochickenrice {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.nandochickenrice:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}

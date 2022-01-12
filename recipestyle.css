@@ -1,0 +1,341 @@
+/* style sheet for online recipes page */
+
+* {
+    font-family: Helvetica;
+}
+
+/* ***LINKS AT THE TOP OF THE PAGE*** */
+
+.online {
+    background-color:#BFC9CA;
+    color: #17A589;
+    border: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.online:hover {
+    border: solid #17A589;
+    background-color:#EAEDED;
+    color: #17A589;
+}
+
+.recipes {
+    border-top: solid #BFC9CA;
+    border-left: solid #BFC9CA;
+    border-right: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 13px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #17A589;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.recipes:hover {
+    background-color:#BFC9CA;
+    color: #17A589;
+}
+
+.home {
+    border-top: solid #BFC9CA;
+    border-left: solid #BFC9CA;
+    border-right: solid #BFC9CA;
+    padding: 6px;
+    padding-bottom: 13px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #17A589;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.home:hover {
+    background-color:#BFC9CA;
+    color: #17A589;
+}
+
+body {
+    background-color: #EAEDED;
+}
+
+/* MAIN HEADINGS */
+
+h1 {
+    position: relative;
+    background-color: #17A589;
+    color:#BFC9CA;
+    border-radius: 15px;
+    padding: 15px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:#BFC9CA
+}
+
+.types {
+    background-color: #BFC9CA;
+    color: #17A589;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+    margin-top: 0px;
+    width: 200px;
+    margin-left: 15px;
+}
+
+/* CUISINES */
+
+.oriental {
+    color: #17A589;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+/* LINKS */
+
+#sweetsournoodles {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#sweetsournoodles:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#hoisinnoodles {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+#hoisinnoodles:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#ramen {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#ramen:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#quornleek {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#quornleek:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+/* CUISINE */
+
+.pasta {
+    color: #17A589;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+/* LINKS */
+
+#sausageorzo {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#sausageorzo:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#penneallavodka {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#penneallavodka:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#spagmeatballs {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#spagmeatballs:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+
+
+/* CUISINE */
+
+.mexican {
+    color: #17A589;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+
+
+/* LINKS */
+
+#chickentaco {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#chickentaco:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+
+
+/* CUISINE */
+
+.curry {
+    color: #17A589;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+/* LINKS */
+
+#greenthai {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#greenthai:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
+
+#butterchicken {
+    color: #17A589;
+    background-color: #BFC9CA;
+    background-size: 100px 100px;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+#buttershicken:hover {
+    background-color:#17A589;
+    color: #BFC9CA;
+}
