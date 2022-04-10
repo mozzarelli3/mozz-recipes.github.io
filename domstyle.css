@@ -1,0 +1,117 @@
+/* dom stylesheet */
+
+h1 {
+    background-image: url(https://am3pap005files.storage.live.com/y4m-uL3SP7G5PaXIyRJLvvB0xpqSVx7bAtfRMOqdnVhObSIiLFWamcRBhhN_HdE-X43g6qlveXcQ7zXNyx9mTdUHK1UkC5_HzQgZAUZLVLwknGIRY42wdDNIYxnIsoPItbgFiq5IGwarWsPgBI04xv_XQepG8sOmq-hJv6634EJIdJJNdsC4A32fjofxuzv5mKF?width=2048&height=275&cropmode=none);
+    opacity: 75%;
+    color: white;
+    font-size: 100px;
+    font-family: Syncopate;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom:100px;
+    margin: 0;
+}
+
+/* IMAGES SECTION */
+
+#tintagel:hover {
+    opacity: 40%;
+}
+
+#rougemont:hover {
+    opacity: 40%;
+}
+
+#gondola:hover {
+    opacity: 40%;
+}
+
+#weddingfamily:hover {
+    opacity: 40%
+}
+
+#weddingstare:hover {
+    opacity: 40%;
+}
+
+#mirrorselfie:hover {
+    opacity: 40%;
+}
+
+#weddingphoto:hover {
+    opacity: 40%;
+}
+
+#shirtlessmirror:hover {
+    opacity: 40%;
+}
+
+#fountain:hover {
+    opacity: 40%;
+}
+
+#segway:hover {
+    opacity: 40%;
+}
+
+#weddingmirror:hover {
+    opacity: 40%;
+}
+
+#weddingrum:hover {
+    opacity: 40%;
+}
+
+#tintagelfunny:hover {
+    opacity: 40%;
+}
+
+#jamaicainn:hover {
+    opacity: 40%;
+}
+
+#weddingselfie:hover {
+    opacity: 40%;
+}
+
+#weddingdinner:hover {
+    opacity: 40%;
+}
+
+#smile:hover {
+    opacity: 40%;
+}
+
+#funnyeyes:hover {
+    opacity: 40%;
+}
+
+#broccoli:hover {
+    opacity: 40%;
+}
+
+#niceweddingphoto:hover {
+    opacity: 40%;
+}
+
+#bath:hover {
+    opacity: 40%;
+}
+
+/* BACKGROUNDS STUFF */
+
+.imageboard {
+    background-color: #013A63;
+    padding: 20px;
+}
+
+.introduction p {
+    font-size: 30px;
+    font-family: Helvetica;
+    color: #A9D6E5;
+    background-color:#013A63;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 30px;
+}
